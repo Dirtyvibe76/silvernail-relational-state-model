@@ -1,0 +1,11 @@
+quantity,value,source_version,interpretation
+common_frame_residual,1.572276e-16,V0.74,compatible shared relational frame
+directional_defect_residual,1.460411e-01,V0.74,species-dependent directional mismatch
+max_KG_residual,4.702996997461e-16,V0.76,quadratic Noether identity
+smallest_gauge_fixed_eigenvalue,9.494102871751e-01,V0.76,off-shell gauge-fixed invertibility
+closure_residual_N128,1.562371876410e-03,V0.77,nonzero finite-spacing nonlinear closure defect
+closure_convergence_order,1.991552,V0.77,asymptotic continuum convergence
+leibniz_residual_N128,2.487178627366e-03,V0.77,finite-spacing product-rule defect
+leibniz_convergence_order,2.007172,V0.77,asymptotic product-rule convergence
+torsion_block_min_eigenvalue,2.013493178681,V0.79,positive auxiliary connection block
+metric_kernel_relative_difference,5.779038089253e-17,V0.79,torsion-eliminated agreement with V0.76
