@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite this repository and the associated manuscript."
+title: "Silvernail Relational State Model: Paper 1 Reproducibility Materials"
+type: software
+authors:
+  - family-names: Silvernail
+    given-names: Aron
+email: aronsilvernailj@gmail.com
+repository-code: "https://github.com/Dirtyvibe76/silvernail-relational-state-model"
+license: MIT
+version: 0.3.0
+date-released: 2026-07-21
+keywords:
+  - relational dynamics
+  - emergent geometry
+  - causal propagation
+  - graph Hamiltonian
+  - information cone
